@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mugi07
-- 👀 I’m interested in ML&DL
+- 👋 Hi, I’m Mohammed Hafidi 
+- 👀 I’m interested in ML&DL and i'm full stack developer Flutter | laravel 
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Project in ML & DL
 - 📫 How to reach me emmail: hafidimohammed74@gmail.com
